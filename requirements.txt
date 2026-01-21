@@ -3,3 +3,4 @@ numpy
 pandas
 matplotlib
 slicing
+word2number
